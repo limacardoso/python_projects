@@ -1,2 +1,2 @@
-# python_projects
- Repositóriopara estudo e prática de python
+# Python projects
+ Repository for Python study and pratice 
